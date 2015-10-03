@@ -67,7 +67,7 @@ $.Redactor.opts.langs['zh'] = {
 	anchor: '锚点',
 	link_new_tab: '在新的标签中打开链接',
 	underline: '下划线',
-	alignment: '对其方式',
+	alignment: '对齐方式',
 	filename: '名称 (可选)',
 	edit: '编辑',
 	center: '居中'
