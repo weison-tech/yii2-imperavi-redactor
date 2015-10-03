@@ -1,12 +1,12 @@
 (function ($) {
-$.Redactor.opts.langs['zh_cn'] = {
+$.Redactor.opts.langs['zh'] = {
 	html: 'HTML代码',
 	video: '视频',
 	image: '图片',
 	table: '表格',
 	link: '链接',
 	link_insert: '插入链接',
-	link_edit: 'Edit link',
+	link_edit: '编辑链接',
 	unlink: '取消链接',
 	formatting: '样式',
 	paragraph: '段落',
@@ -65,11 +65,11 @@ $.Redactor.opts.langs['zh_cn'] = {
 	fullscreen: '全屏',
 	deleted: '删除',
 	anchor: '锚点',
-	link_new_tab: 'Open link in new tab',
-	underline: 'Underline',
-	alignment: 'Alignment',
-	filename: 'Name (optional)',
-	edit: 'Edit',
-	center: 'Center'
+	link_new_tab: '在新的标签中打开链接',
+	underline: '下划线',
+	alignment: '对其方式',
+	filename: '名称 (可选)',
+	edit: '编辑',
+	center: '居中'
 };
 })( jQuery );
