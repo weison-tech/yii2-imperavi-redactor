@@ -331,7 +331,11 @@
 				alignment: 'Alignment',
 				filename: 'Name (optional)',
 				edit: 'Edit',
-				upload_label: 'Drop file here or '
+				upload_label: 'Drop file here or ',
+				fullscreen: 'Full Screen',
+				clips: 'Clips',
+				insert_clips: 'Insert Clips',
+				red_label: 'Red Label'
 			}
 		},
 
