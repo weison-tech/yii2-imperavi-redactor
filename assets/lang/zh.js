@@ -70,6 +70,9 @@ $.Redactor.opts.langs['zh'] = {
 	alignment: '对齐方式',
 	filename: '名称 (可选)',
 	edit: '编辑',
-	center: '居中'
+	center: '居中',
+	clips: '剪贴板',
+	insert_clips: '插入剪贴板内容',
+	red_label: '红色标签'
 };
 })( jQuery );
